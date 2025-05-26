@@ -2,8 +2,8 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 8,
-   "id": "22cba74f-a7df-48ca-b122-182a785f9211",
+   "execution_count": 1,
+   "id": "574e21c0-cf45-40be-a2ef-7ed0800f9672",
    "metadata": {},
    "outputs": [
     {
@@ -19,7 +19,7 @@
        "  {'id': 104, 'name': 'Web Dev Hub'}]}"
       ]
      },
-     "execution_count": 8,
+     "execution_count": 1,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -44,7 +44,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "12687295-e0a3-4115-b6c7-93e44ed4050b",
+   "id": "7f8c94af-d2b4-4179-9393-484b4fca72d2",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -52,9 +52,9 @@
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Python [conda env:base] *",
+   "display_name": "Python 3 (ipykernel)",
    "language": "python",
-   "name": "conda-base-py"
+   "name": "python3"
   },
   "language_info": {
    "codemirror_mode": {
