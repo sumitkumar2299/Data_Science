@@ -2,28 +2,10 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
-   "id": "574e21c0-cf45-40be-a2ef-7ed0800f9672",
+   "execution_count": null,
+   "id": "1538914e-5a50-45f8-bc77-a0a81812878e",
    "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/plain": [
-       "{'users': [{'id': 1, 'name': 'Amit', 'friends': [2, 3], 'liked_pages': [101]},\n",
-       "  {'id': 2, 'name': 'Priya', 'friends': [1, 4], 'liked_pages': [102]},\n",
-       "  {'id': 3, 'name': 'Rahul', 'friends': [1], 'liked_pages': [101, 103]},\n",
-       "  {'id': 4, 'name': 'Sara', 'friends': [2], 'liked_pages': [104]}],\n",
-       " 'pages': [{'id': 101, 'name': 'Python Developers'},\n",
-       "  {'id': 102, 'name': 'Data Science Enthusiasts'},\n",
-       "  {'id': 103, 'name': 'AI & ML Community'},\n",
-       "  {'id': 104, 'name': 'Web Dev Hub'}]}"
-      ]
-     },
-     "execution_count": 1,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
+   "outputs": [],
    "source": [
     "{\n",
     "    \"users\": [\n",
@@ -40,14 +22,6 @@
     "    ]\n",
     "}"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "7f8c94af-d2b4-4179-9393-484b4fca72d2",
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
