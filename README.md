@@ -102,17 +102,9 @@ This repo showcases my:
 
 ✔️ Growth mindset & long-term learning discipline
 
-
-
 🛠️ Tech Stack
 
 Languages: Python
 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 Tools: Jupyter Notebook, Anaconda
 
-
-
-
-🔗 LinkedIn: (add your link)
-🔗 Portfolio: (add link if available)
-🔗 GitHub: (your profile link)
