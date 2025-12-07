@@ -6,58 +6,64 @@
 <p align="center">🚀 Overview</p>
 <p align="center"> This repository captures my end-to-end Data Science journey — from foundations to advanced ML concepts. <br> I learn → implement → experiment → document. This repo is proof of consistent hands-on practice and real learning. </p>
 <p align="center">📂 Repository Structure</p>
-🔰 1. Python Foundations
-✔ Core Python  
-✔ Loops, functions, OOP basics  
-✔ Hypothesis testing  
-✔ Multiple practice assignments  
+🔰 1. Python Foundations.
 
-🔷 2. NumPy Essentials
-✔ Vectorization & broadcasting  
-✔ Matrix and numerical operations  
-✔ Data preprocessing fundamentals  
+✔ Core Python.
+✔ Loops, functions, OOP basics.
+✔ Hypothesis testing.
+✔ Multiple practice assignments.
+
+🔷 2. NumPy Essentials.
+
+✔ Vectorization & broadcasting.
+✔ Matrix and numerical operations.  
+✔ Data preprocessing fundamentals. 
 
 🐼 3. Pandas – Data Analysis Core
-✔ Data cleaning & transformation  
-✔ Handling missing values  
-✔ Merge, join, groupby  
-✔ Real mini projects included  
+
+✔ Data cleaning & transformation.
+✔ Handling missing values.
+✔ Merge, join, groupby.
+✔ Real mini projects included.
 
 📊 4. Data Visualization (Matplotlib + Seaborn)
-✔ Statistical charts  
-✔ Heatmaps, pairplots  
-✔ EDA storytelling  
+✔ Statistical charts.
+✔ Heatmaps, pairplots. 
+✔ EDA storytelling.
 
 🤖 5. Machine Learning
-✔ Linear & Logistic Regression  
-✔ KNN, K-Means, DBSCAN  
-✔ PCA (Dimensionality Reduction)  
-✔ Full ML pipeline: preprocess → train → evaluate  
-✔ Real-world dataset projects  
+
+✔ Linear & Logistic Regression. 
+✔ KNN, K-Means, DBSCAN.
+✔ PCA (Dimensionality Reduction). 
+✔ Full ML pipeline: preprocess → train → evaluate. 
+✔ Real-world dataset projects.
 
 🗣️ 6. NLP – Natural Language Processing
-✔ Text preprocessing  
-✔ Tokenization, stemming, lemmatization  
-✔ Mini NLP project  
+✔ Text preprocessing.  
+✔ Tokenization, stemming, lemmatization. 
+✔ Mini NLP project.
 
 🧬 7. Deep Learning Basics
-✔ Neural network fundamentals  
-✔ Guided practical notebooks  
+
+✔ Neural network fundamentals. 
+✔ Guided practical notebooks. 
 
 📈 8. Statistics
-✔ Probability & distributions  
-✔ Hypothesis testing  
-✔ Insurance ML mini-project  
+
+✔ Probability & distributions.  
+✔ Hypothesis testing.
+✔ Insurance ML mini-project.
 
 <p align="center">🌟 What This Repository Shows About Me</p>
 <div align="center">
 
-💡 Strong understanding of Data Science fundamentals
-🧠 Ability to convert theory → working code
-📘 Clean documentation & structured learning
-🔍 Practical approach using real datasets
-📈 Demonstrated growth over time
-🔥 Ready for real-world DS/ML projects
+💡 Strong understanding of Data Science fundamentals.
+🧠 Ability to convert theory → working code.
+📘 Clean documentation & structured learning.
+🔍 Practical approach using real datasets.
+📈 Demonstrated growth over time.
+🔥 Ready for real-world DS/ML projects.
 
 </div>
 <p align="center">🛠️ Tech Stack</p>
