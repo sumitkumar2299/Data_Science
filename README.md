@@ -2,7 +2,7 @@
 
 
 <p align="center">✨ Data Science Learning Journey ✨</p>
-<p align="center"> <img width="700" src="https://i.imgur.com/OVxZ6ZP.png" /> </p> <p align="center"> A beautifully documented roadmap of my progress in <b>Python, Data Analysis, Machine Learning, NLP, and Deep Learning</b>. <br> Every folder in this repository represents a milestone of growth. </p>
+<p align="center"> <img width="700" src="" /> </p> <p align="center"> A beautifully documented roadmap of my progress in <b>Python, Data Analysis, Machine Learning, NLP, and Deep Learning</b>. <br> Every folder in this repository represents a milestone of growth. </p>
 <p align="center">🚀 Overview</p>
 <p align="center"> This repository captures my end-to-end Data Science journey — from foundations to advanced ML concepts. <br> I learn → implement → experiment → document. This repo is proof of consistent hands-on practice and real learning. </p>
 <p align="center">📂 Repository Structure</p>
